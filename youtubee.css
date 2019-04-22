@@ -1,0 +1,61 @@
+body {
+  background-color: #89ebfa;
+
+  text-align: center;
+  
+}
+
+#divi{
+border: 2px solid white;
+margin-left: 50px;
+min-height: 450px;
+margin-top: 150px;
+margin-right:50px;
+padding: 40px;
+margin-bottom: 120px;
+background: white;
+justify-content: center;
+  align-content: center;
+}
+
+#textinput{
+  border-color: #89ebfa;
+  border-style: groove;
+  padding: 8px;
+  text-align: center;
+}
+
+#heading {
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#inputbtn {
+padding: 5px;
+padding-left: 30px;
+padding-right: 30px;
+background-color: #89ebfa;
+border: none;
+text-align: center;
+color: white;
+font-weight: 600;
+font-size: 18px;
+}
+
+h4 {
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+#Output {
+color: #89ebfa;
+font-weight: bolder;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#inputbtn:hover{
+  background-color: aqua;
+}
